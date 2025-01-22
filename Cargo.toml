@@ -82,6 +82,7 @@ members = [
     "crates/payload/primitives/",
     "crates/payload/validator/",
     "crates/payload/util/",
+    "crates/post-quantum/",
     "crates/primitives-traits/",
     "crates/primitives/",
     "crates/prune/prune",
